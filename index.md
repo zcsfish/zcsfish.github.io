@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "鳝鱼の文档"
-  text: "一个VitePress文档网站"
+  text: "一个基于VitePress的文档网站"
   actions:
     - theme: brand
       text: 开始阅读
