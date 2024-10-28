@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /start
+      link: /main
     - theme: alt
       text: 关于我们
       link: /about
