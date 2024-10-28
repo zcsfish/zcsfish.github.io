@@ -31,6 +31,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/zcsfish/zcsfish.github.io' }
-    ]
+    ],
+    notFound: '/404'
   }
 })
