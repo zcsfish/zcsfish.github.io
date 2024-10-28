@@ -14,7 +14,11 @@
 :::
 
 #### Github：提供了网站部署和解析服务
+
 #### VitePress：提供了网站页面的制作和将Md文件转化为Html页面的服务
+
 #### FreeDomain.One：提供了免费的LinkPc.Net域名服务以及配套免费的DNS解析服务，终于不用再用Github.io了
+
 #### Termux：提供了本地网页预览和Git上传等多种CLI命令行服务
-#### MarkDown：大部分文章都是使用MarkDown格式编写的
+
+#### MarkDown：大部分文章和内容都是使用MarkDown语法格式编写的
