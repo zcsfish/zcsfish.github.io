@@ -10,7 +10,15 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
-
+    markdown: {
+       container: {
+          tipLabel: '提示',
+          warningLabel: '警告',
+          dangerLabel: '危险',
+          infoLabel: '信息',
+          detailsLabel: '详细信息'
+       }
+    },
     sidebar: [
       {
         text: 'Examples',
@@ -22,7 +30,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/zcsfish/zcsfish.github.io' }
     ]
   }
 })
