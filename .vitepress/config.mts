@@ -4,13 +4,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "鳝鱼の文档",
   description: "一个VitePress文档网站",
-  themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
-    markdown: {
+  ignoreDeadLinks: true,
+  markdown: {
        container: {
           tipLabel: '提示',
           warningLabel: '警告',
@@ -19,6 +14,12 @@ export default defineConfig({
           detailsLabel: '详细信息'
        }
     },
+  themeConfig: {
+    // https://vitepress.dev/reference/default-theme-config
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: 'Examples', link: '/markdown-examples' }
+    ],
     sidebar: [
       {
         text: 'Examples',
