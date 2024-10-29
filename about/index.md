@@ -13,23 +13,22 @@
 以下是支持或提供了免费服务给我们团队的公司和团队，愿你们越来越棒！
 :::
 
-::: info
-Github：
+::: tip Github
 提供了网站部署和解析服务
 :::
 
-::: info
-VitePress：提供了网站页面的制作和将Md文件转化为Html页面的服务
+::: tip VitePress
+提供了网站页面的制作和将Md文件转化为Html页面的服务
 :::
 
-::: info
-FreeDomain.One：提供了免费的LinkPc.Net域名服务以及配套免费的DNS解析服务，终于不用再用Github.io了
+::: tip FreeDomain.one
+提供了免费的LinkPc.Net域名服务以及配套免费的DNS解析服务，终于不用再用Github.io了
 :::
 
-::: info
-Termux：提供了本地网页预览和Git上传等多种CLI命令行服务
+::: tip Termux
+提供了本地网页预览和Git上传等多种CLI命令行服务
 :::
 
-::: info
-MarkDown：大部分文章和内容都是使用MarkDown语法格式编写的
+::: tip MarkDown
+大部分文章和内容都是使用MarkDown语法格式编写的
 :::
