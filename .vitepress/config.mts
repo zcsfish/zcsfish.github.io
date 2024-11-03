@@ -31,7 +31,7 @@ export default defineConfig({
       }
     ],
     editLink: {
-      pattern: 'https://github.com/zcsfish/zcsfish.github.io/edit/main/:path'
+      pattern: 'https://github.com/zcsfish/zcsfish.github.io/edit/main/:path',
       text: '编辑文本'
     },
     socialLinks: [
